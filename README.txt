@@ -1,5 +1,5 @@
 Recipe Box
 
-https://shintouki.github.io/recipe-box/
+https://tshin1.github.io/recipe-box/
 
 Add, edit and delete recipes. They are stored in cookies.
